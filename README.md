@@ -27,3 +27,4 @@
 * 🐋 Docker
 * 🎲 GraphQL
 * 💎 Typescript
+* 🤖 Golang
