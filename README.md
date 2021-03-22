@@ -7,7 +7,7 @@
 
 > 👨🏻‍💻 Full Stack Developer
 
-[![Rafael Fávaro Azzi Github Stats](https://github-readme-stats.vercel.app/api?username=zackwn&show_icons=true&theme=default)](https://github.com/Zackwn)
+[![Rafael Fávaro Azzi Github Stats](https://github-readme-stats.vercel.app/api?username=zackwn&show_icons=true&theme=dark)](https://github.com/Zackwn)
 
 ## About me 
 
