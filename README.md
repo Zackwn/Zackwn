@@ -1,4 +1,4 @@
-# Hello, I'm Rafael Azzi 🔮
+# Hello, I'm Rafael Azzi 👋🏻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Zackwn)](https://github.com/Zackwn)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-%234dc966?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/rafaelfavazzi)](https://www.hackerrank.com/rafaelfavazzi)
