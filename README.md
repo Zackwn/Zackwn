@@ -11,7 +11,7 @@
 
 ## About me 
 
-⚡️ I'm 14, I love programming and development
+⚡️ I'm 15, I love programming and development
 
 * 🌎 I'm from Brazil
 * 🎮 I like to study and play games
