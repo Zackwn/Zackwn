@@ -21,8 +21,6 @@
 
 📝 Knowledge is never too much, these are the content I'm focused on at the moment.
 
-* React.js
-* Next.js
+* Golang
 * Docker
 * Typescript
-* Golang
