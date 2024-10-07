@@ -6,11 +6,7 @@
 
 ## About me 
 
-⚡️ I'm 16, I love programming and development
-
-* 🌎 I'm from Brazil
-* 🎮 I like to study and play games
-* 🛠️ I love to customize everything
+⚡️ I'm 18, I love programming and development
 
 ## Studying now
 
